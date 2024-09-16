@@ -104,11 +104,11 @@ The Vendor Risk Management project focuses on assessing, managing, and mitigatin
  
 ## Contributors
  
-- **Project Lead**: [Name](#)
+- **Project Lead**: [Venkat S](#)
 
-- **Vendor Risk Assessment Specialist**: [Name](#)
+- **Vendor Risk Assessment Specialist**: [Venkat S](#)
 
-- **Contract Management Expert**: [Name](#)
+- **Contract Management Expert**: [Venkat S](#)
  
 ## License
  
